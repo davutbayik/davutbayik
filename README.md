@@ -60,7 +60,7 @@ Feel free to check out my repositories and let me know if you want to collaborat
 
 ## 🌟 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davutbayik&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
