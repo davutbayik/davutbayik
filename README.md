@@ -49,10 +49,10 @@ Here are some of my favorite projects:
 
 ## 💻 How to Reach Me
 
-- **Email**: [davutbayik@gmail.com](mailto:davutbayik@gmail.com)
-- **LinkedIn**: [Davut Bayık](https://www.linkedin.com/in/davutbayik/)
-- **Upwork**: [Davut Bayık](https://www.upwork.com/freelancers/~01efaffd23e4bc0759)
-- **Kaggle**: [davutbayik](https://www.kaggle.com/davutb)
+- [**Email**](mailto:davutbayik@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/davutbayik/)
+- [**Upwork**](https://www.upwork.com/freelancers/~01efaffd23e4bc0759)
+- [**Kaggle**](https://www.kaggle.com/davutb)
 
 Feel free to check out my repositories and let me know if you want to collaborate or have any questions. Happy coding! 👨‍💻
 
