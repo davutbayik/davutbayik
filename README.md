@@ -16,11 +16,11 @@ I am a Data Scientist, and I specialize in:
 - Computer Vision
 - Full stack web development
 
-I’m currently working on projects related to A.I and ML algorithms.
+I’m currently working on projects related to AI and ML algorithms.
 
 ### 🔧 Skills & Technologies
 - **Programming Languages**: Python, SQL, Javascript, Php, HTML/CSS
-- **Frameworks & Libraries**: PyTorch, Tensorflow, Scikit-learn, Pandas, Numpy, Streamlit, FastAPI, FPDF, PyQt5, PyGame, Tailwindcss, React
+- **Frameworks & Libraries**: PyTorch, Tensorflow, Scikit-learn, Pandas, Numpy, Langchain, Streamlit, Flask, FastAPI, FPDF, Xlswriter, PyQt5, PyGame, Tailwindcss, React
 - **Tools & Platforms**: GitHub, Jupyter, VS Code, Docker, AWS, Google Cloud
 - **Databases**: PostgreSQL, MySQL, MsSQL, MongoDB
 
@@ -35,7 +35,7 @@ Here are some of my favorite projects:
 - **Technologies**: Python, Scikit-learn, Pandas
 - **Goal**: To build a reliable predictor for wine quality to help wineries optimize production.
 
-### 🧠 [Social Network Ads Prediction](https://github.com/yourusername/social-network-ads)
+### 🧠 [Social Network Ads Prediction](https://github.com/davutbayik/social-network-ads)
 - **Description**: A Streamlit dashboard and FastAPI endpoint that predicts whether a user will purchase a product based on their gender, age, and estimated salary.
 - **Technologies**: Python, Streamlit, FastAPI, Scikit-learn
 - **Goal**: To help businesses optimize their digital ad targeting using machine learning models.
