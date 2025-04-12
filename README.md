@@ -61,10 +61,10 @@ Feel free to check out my repositories and let me know if you want to collaborat
 ## 🌟 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=600 align="center" src="https://github-readme-stats.vercel.app/api?username=davutbayik&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula" />
+  <img height=200 width=800 align="start" src="https://github-readme-stats.vercel.app/api?username=davutbayik&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davutbayik&layout=compact&count_private=true&theme=dracula" />
+  <img height=200 width=800 align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davutbayik&layout=compact&count_private=true&theme=dracula" />
 </a>
 
 ---
