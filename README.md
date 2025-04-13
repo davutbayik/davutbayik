@@ -30,20 +30,25 @@ I’m currently working on projects related to AI and ML algorithms.
 
 Here are some of my favorite projects:
 
-### 📊 [Wine Quality Prediction](https://github.com/yourusername/wine-quality-prediction)
-- **Description**: A machine learning model that predicts the quality of wines based on various features such as acidity, sugar content, and pH.
-- **Technologies**: Python, Scikit-learn, Pandas
-- **Goal**: To build a reliable predictor for wine quality to help wineries optimize production.
+### 🍽️ [Food Delivery Time Prediction](https://github.com/davutbayik/food-delivery-time-prediction)
+- **Description**: A machine learning model that predicts food delivery times based on time of the delivery, distance, courier's rating and age, current weather condition, traffic and various factors.
+- **Technologies**: Python, Scikit-learn, Pandas, Seaborn
+- **Goal**: To help food delivery companies to optimize their resource allocation and delivery strategy.
 
 ### 🧠 [Social Network Ads Prediction](https://github.com/davutbayik/social-network-ads)
 - **Description**: A Streamlit dashboard and FastAPI endpoint that predicts whether a user will purchase a product based on their gender, age, and estimated salary.
 - **Technologies**: Python, Streamlit, FastAPI, Scikit-learn
 - **Goal**: To help businesses optimize their digital ad targeting using machine learning models.
 
-### 🔍 [NLP Sentiment Analysis](https://github.com/yourusername/nlp-sentiment-analysis)
-- **Description**: A sentiment analysis model that classifies text data into positive, neutral, or negative sentiments using a fine-tuned BERT model.
+### 🔍 [NLP Sentiment Analysis](https://github.com/davutbayik/nlp-sentiment-analysis)
+- **Description**: A sentiment analysis model that classifies metacritic reviews text data into positive, neutral, or negative sentiments using a fine-tuned BERT model.
 - **Technologies**: Python, BERT, Hugging Face, NLTK
-- **Goal**: To analyze customer feedback and reviews for insights into product sentiment.
+- **Goal**: To analyze customer reviews from metacritic games, movies and tv shows for insights into product sentiment.
+
+### 📊 [Wine Quality Prediction](https://github.com/davutbayik/wine-quality-prediction)
+- **Description**: A machine learning model that predicts the quality of wines based on various features such as acidity, sugar content, and pH.
+- **Technologies**: Python, Scikit-learn, Pandas
+- **Goal**: To build a reliable predictor for wine quality to help wineries optimize production.
 
 ---
 
