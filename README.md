@@ -35,7 +35,7 @@ Here are some of my favorite projects:
 - **Technologies**: Python, Scikit-learn, Pandas, Seaborn
 - **Goal**: To help food delivery companies to optimize their resource allocation and delivery strategy.
 
-### 🧠 [Social Network Ads Prediction](https://github.com/davutbayik/social-network-ads)
+### 🧠 [Social Network Ads Prediction](https://github.com/davutbayik/socialmedia-ads-purchase-prediction)
 - **Description**: A Streamlit dashboard and FastAPI endpoint that predicts whether a user will purchase a product based on their gender, age, and estimated salary.
 - **Technologies**: Python, Streamlit, FastAPI, Scikit-learn
 - **Goal**: To help businesses optimize their digital ad targeting using machine learning models.
