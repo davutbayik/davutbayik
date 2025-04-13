@@ -16,7 +16,7 @@ I am a Data Scientist, and I specialize in:
 - Computer Vision
 - Full stack web development
 
-I’m currently working on projects related to AI and ML algorithms.
+I’m currently working on projects related to AI and ML algorithms, deployment, data analysis, interactive dashboards, and PyQt desktop apps.
 
 ### 🔧 Skills & Technologies
 - **Programming Languages**: Python, SQL, Javascript, Php, HTML/CSS
