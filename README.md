@@ -49,7 +49,7 @@ Here are some of my favorite projects:
 
 ## 💻 How to Reach Me
 
-- **Email**: [davutbayik@gmail.com](mailto:davutbayik@gmail.com)
+- [**Email**]: [davutbayik@gmail.com](mailto:davutbayik@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/davutbayik/)
 - [**Upwork**](https://www.upwork.com/freelancers/~01efaffd23e4bc0759)
 - [**Kaggle**](https://www.kaggle.com/davutb)
