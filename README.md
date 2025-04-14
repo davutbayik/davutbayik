@@ -43,7 +43,7 @@ Here are some of my favorite projects:
 ### 🔍 [NLP Sentiment Analysis](https://github.com/davutbayik/nlp-sentiment-analysis)
 - **Description**: A sentiment analysis model that classifies metacritic reviews text data into positive, neutral, or negative sentiments using a fine-tuned BERT model.
 - **Technologies**: Python, BERT, Hugging Face, NLTK
-- **Goal**: To analyze customer reviews from metacritic games, movies and tv shows for insights into product sentiment.
+- **Goal**: To analyze customer reviews from metacritic games reviews for insights into product sentiment.
 
 ### 📊 [Wine Quality Prediction](https://github.com/davutbayik/wine-quality-prediction)
 - **Description**: A machine learning model that predicts the quality of wines based on various features such as acidity, sugar content, and pH.
