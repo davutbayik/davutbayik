@@ -18,7 +18,7 @@ I am a Data Scientist, and I specialize in:
 - Desktop and Web App using Python frameworks
 - Full stack web development
 
-I’m currently working on data science projects related to building AI agents and frameworks, building and deploying ML projects, data analysis, interactive dashboards, and PyQt desktop apps.
+I’m currently working on data science projects related to building AI agents, ML algorithms, data analysis, interactive dashboards and PyQt desktop apps.
 
 ### 🔧 Skills & Technologies
 - **Programming Languages**: Python, SQL, Javascript, Php, HTML/CSS
