@@ -7,6 +7,7 @@ Welcome to my GitHub! I'm Davut Bayık, a passionate data scientist, machine lea
 ## 🚀 About Me
 
 I am a Data Scientist, and I specialize in:
+- AI Agents and RAG orchestration
 - Aritifical Intelligence API's and prompt engineering
 - Machine learning and deep learning models
 - Data preprocessing and cleaning
@@ -16,11 +17,11 @@ I am a Data Scientist, and I specialize in:
 - Computer Vision
 - Full stack web development
 
-I’m currently working on projects related to AI and ML algorithms, deployment, data analysis, interactive dashboards, and PyQt desktop apps.
+I’m currently working on data science projects related to building AI agents and frameworks, building and deploying ML projects, data analysis, interactive dashboards, and PyQt desktop apps.
 
 ### 🔧 Skills & Technologies
 - **Programming Languages**: Python, SQL, Javascript, Php, HTML/CSS
-- **Frameworks & Libraries**: PyTorch, Tensorflow, Scikit-learn, Pandas, Numpy, Langchain, Streamlit, Flask, FastAPI, FPDF, Xlswriter, PyQt5, PyGame, Tailwindcss, React
+- **Frameworks & Libraries**: Langchain, CrewAI, PyTorch, Tensorflow, Scikit-learn, Pandas, Numpy, Langchain, Streamlit, Flask, FastAPI, FPDF, Xlswriter, PyQt6 and Tkinter, PyGame, Tailwindcss, React
 - **Tools & Platforms**: GitHub, Jupyter, VS Code, Docker, AWS, Google Cloud
 - **Databases**: PostgreSQL, MySQL, MsSQL, MongoDB
 
