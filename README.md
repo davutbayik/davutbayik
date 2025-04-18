@@ -15,14 +15,14 @@ I am a Data Scientist, and I specialize in:
 - Predictive modeling
 - Natural Language Processing (NLP)
 - Computer Vision
-- Desktop and Web App using Python frameworks
+- Desktop and Web Applications using Python frameworks
 - Full stack web development
 
 I’m currently working on data science projects related to building AI agents, ML algorithms, data analysis, interactive dashboards and PyQt desktop apps.
 
 ### 🔧 Skills & Technologies
 - **Programming Languages**: Python, SQL, Javascript, Php, HTML/CSS
-- **Frameworks & Libraries**: Langchain, CrewAI, PyTorch, Tensorflow, Scikit-learn, Pandas, Numpy, Langchain, Streamlit, Flask, FastAPI, FPDF, Xlswriter, PyQt6 and Tkinter, PyGame, Tailwindcss, React
+- **Frameworks & Libraries**: CrewAI, Langchain, Langgraph, PyTorch, Tensorflow, Scikit-learn, Pandas, Numpy, Langchain, Streamlit, Flask, FastAPI, FPDF, Xlswriter, PyQt6 and Tkinter, PyGame, Tailwindcss, React
 - **Tools & Platforms**: GitHub, Jupyter, VS Code, Docker, AWS, Google Cloud
 - **Databases**: PostgreSQL, MySQL, MsSQL, MongoDB
 
