@@ -42,6 +42,11 @@ Here are some of my favorite projects:
 - **Technologies**: Python, Scikit-learn, Pandas, Seaborn
 - **Goal**: To help food delivery companies to optimize their resource allocation and delivery strategy.
 
+### 🎮 [Metacritic Backend Scraper](https://github.com/davutbayik/metacritic-backend-scraper)
+- **Description**: A custom OOP class for scraping metacritic games, movies and tv shows metadata and reviews from metacritic's backend API using requests.
+- **Technologies**: Python, Requests, Pandas
+- **Goal**: To efficiently extract structured, high-quality metadata and reviews for games, movies, and TV shows from Metacritic’s backend API—enabling deep analysis, sentiment mining, and recommendation system research without the overhead of frontend scraping.
+
 ### 🧠 [Social Network Ads Prediction](https://github.com/davutbayik/socialmedia-ads-purchase-prediction)
 - **Description**: A Streamlit dashboard and FastAPI endpoint that predicts whether a user will purchase a product based on their gender, age, and estimated salary.
 - **Technologies**: Python, Streamlit, FastAPI, Scikit-learn
