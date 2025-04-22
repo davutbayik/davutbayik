@@ -32,15 +32,15 @@ I’m currently working on data science projects related to building AI agents, 
 
 Here are some of my favorite projects:
 
-### 🔍 [NLP Sentiment Analysis](https://github.com/davutbayik/metacritic-games-sentiment-analysis)
-- **Description**: A sentiment analysis model that classifies metacritic reviews text data into positive, neutral, or negative sentiments using a fine-tuned BERT model.
-- **Technologies**: Python, BERT, Hugging Face, NLTK
-- **Goal**: To analyze user and critic reviews from metacritic games for insights into games sentiment.
-
 ### 🍽️ [Food Delivery Time Prediction](https://github.com/davutbayik/food-delivery-time-prediction)
 - **Description**: A machine learning model that predicts food delivery times based on time of the delivery, distance, courier's rating and age, current weather condition, traffic and various factors.
 - **Technologies**: Python, Scikit-learn, Pandas, Seaborn
 - **Goal**: To help food delivery companies to optimize their resource allocation and delivery strategy.
+
+### 🔍 [NLP Sentiment Analysis](https://github.com/davutbayik/metacritic-games-sentiment-analysis)
+- **Description**: A sentiment analysis model that classifies metacritic reviews text data into positive, neutral, or negative sentiments using a fine-tuned BERT model.
+- **Technologies**: Python, BERT, Hugging Face, NLTK
+- **Goal**: To analyze user and critic reviews from metacritic games for insights into games sentiment.
 
 ### 🎮 [Metacritic Backend Scraper](https://github.com/davutbayik/metacritic-backend-scraper)
 - **Description**: A custom OOP class for scraping metacritic games, movies and tv shows metadata and reviews from metacritic's backend API using requests.
