@@ -22,7 +22,7 @@ I’m currently working on data science projects related to building AI agents, 
 
 ### 🔧 Skills & Technologies
 - **Programming Languages**: Python, SQL, Javascript, Php, HTML/CSS
-- **Frameworks & Libraries**: CrewAI, Langchain, Langgraph, PyTorch, Tensorflow, Scikit-learn, Pandas, Numpy, Langchain, Streamlit, Flask, FastAPI, FPDF, Xlswriter, PyQt6 and Tkinter, PyGame, Tailwindcss, React
+- **Frameworks & Libraries**: CrewAI, Langchain, Langgraph, PyTorch, Tensorflow, Scikit-learn, Pandas, Numpy, Streamlit, Flask, FastAPI, FPDF, Xlswriter, PyQt6, Tkinter, PyGame, Tailwindcss, React
 - **Tools & Platforms**: GitHub, Jupyter, VS Code, Docker, AWS, Google Cloud
 - **Databases**: PostgreSQL, MySQL, MsSQL, MongoDB
 
