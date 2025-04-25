@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Davut Bayık, a passionate data scientist, machine lea
 ## 🚀 About Me
 
 I am a Data Scientist, and I specialize in:
-- AI Agents and RAG orchestration
+- Multi Agent AI frameworks and RAG orchestration
 - Aritifical Intelligence API's and prompt engineering
 - Machine learning and deep learning model building and deploying
 - Data preprocessing and cleaning
