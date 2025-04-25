@@ -32,7 +32,7 @@ I’m currently working on data science projects related to building AI agents, 
 
 Here are some of my favorite projects:
 
-### 🤖 [AutoAdvisor: AI-Powered Business Strategy Advisor](https://github.com/davutbayik/auto-advisor-ai)
+### 🤖 [AutoAdvisor: AI-Powered Business Strategy Consultant](https://github.com/davutbayik/auto-advisor-ai)
 - **Description**: AutoAdvisor is an AI-powered business strategy assistant that validates user-submitted business ideas through a web application, generates strategic reports using multi-agent reasoning, and delivers actionable insights including a SWOT analysis.
 - **Technologies**: CrewAI, Langchain, OpenAI API, SerpAPI, Streamlit
 - **Goal**: Help users transform raw business ideas into validated, actionable strategies by leveraging AI agents for analysis, market research, and strategic planning.
