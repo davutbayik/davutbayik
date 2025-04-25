@@ -32,10 +32,10 @@ I’m currently working on data science projects related to building AI agents, 
 
 Here are some of my favorite projects:
 
-### 🍽️ [Food Delivery Time Prediction](https://github.com/davutbayik/food-delivery-time-prediction)
-- **Description**: A machine learning model that predicts food delivery times based on time of the delivery, distance, courier's rating and age, current weather condition, traffic and various factors.
-- **Technologies**: Python, Scikit-learn, Pandas, Seaborn
-- **Goal**: To help food delivery companies to optimize their resource allocation and delivery strategy.
+### 🤖 [AutoAdvisor: AI-Powered Business Strategy Advisor](https://github.com/davutbayik/ai-business-strategy)
+- **Description**: AutoAdvisor is an AI-powered business strategy assistant that validates user-submitted business ideas through a web application, generates strategic reports using multi-agent reasoning, and delivers actionable insights including a SWOT analysis.
+- **Technologies**: CrewAI, Langchain, OpenAI API, SerpAPI, Streamlit
+- **Goal**: Help users transform raw business ideas into validated, actionable strategies by leveraging AI agents for analysis, market research, and strategic planning.
 
 ### 🔍 [NLP Sentiment Analysis](https://github.com/davutbayik/metacritic-games-sentiment-analysis)
 - **Description**: A sentiment analysis model that classifies metacritic reviews text data into positive, neutral, or negative sentiments using a fine-tuned BERT model.
@@ -52,10 +52,10 @@ Here are some of my favorite projects:
 - **Technologies**: Python, Streamlit, FastAPI, Scikit-learn
 - **Goal**: To help businesses optimize their digital ad targeting using machine learning models.
 
-### 📊 [Wine Quality Prediction](https://github.com/davutbayik/wine-quality-prediction)
-- **Description**: A machine learning model that predicts the quality of wines based on various features such as acidity, sugar content, and pH.
-- **Technologies**: Python, Scikit-learn, Pandas
-- **Goal**: To build a reliable predictor for wine quality to help wineries optimize production.
+### 🍽️ [Food Delivery Time Prediction](https://github.com/davutbayik/food-delivery-time-prediction)
+- **Description**: A machine learning model that predicts food delivery times based on time of the delivery, distance, courier's rating and age, current weather condition, traffic and various factors.
+- **Technologies**: Python, Scikit-learn, Pandas, Seaborn
+- **Goal**: To help food delivery companies to optimize their resource allocation and delivery strategy.
 
 ---
 
