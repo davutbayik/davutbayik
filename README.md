@@ -70,6 +70,7 @@ Here are some of my favorite projects:
 - [**LinkedIn**](https://www.linkedin.com/in/davutbayik/)
 - [**Upwork**](https://www.upwork.com/freelancers/~01efaffd23e4bc0759)
 - [**Kaggle**](https://www.kaggle.com/davutb)
+- [**Personal Website**](https://www.davutbayik.com/)
 
 Feel free to check out my repositories and let me know if you want to collaborate or have any questions. Happy coding! 👨‍💻
 
