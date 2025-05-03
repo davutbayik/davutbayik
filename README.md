@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm Davut Bayık, a passionate data scientist, machine lea
 I am a Data Scientist, and I specialize in:
 - Multi Agent AI frameworks and RAG orchestration
 - Aritifical Intelligence API's and prompt engineering
-- Machine learning and deep learning model building and deploying
+- Machine learning and deep learning model building/deployment
 - Data preprocessing and cleaning
 - Data visualization
 - Predictive modeling
@@ -36,6 +36,11 @@ Here are some of my favorite projects:
 - **Description**: AutoAdvisor is an AI-powered business strategy assistant that validates user-submitted business ideas through a web application, generates strategic reports using multi-agent reasoning, and delivers actionable insights including a SWOT analysis.
 - **Technologies**: CrewAI, Langchain, OpenAI API, SerpAPI, Streamlit
 - **Goal**: Help users transform raw business ideas into validated, actionable strategies by leveraging AI agents for analysis, market research, and strategic planning.
+
+### 💬 [RAG Chatbot: AI-Powered Document Q&A Assistant](https://github.com/davutbayik/rag-chatbot)
+- **Description**: RAG Chatbot is an AI-powered assistant that enables users to upload documents and ask natural language questions about their contents. Leveraging Retrieval-Augmented Generation (RAG), the chatbot extracts relevant context from the documents and provides intelligent, context-aware answers through a user-friendly custom Whatsapp inspired chat interface.
+- **Technologies**: LangChain, OpenAI API, Google Gemini API, FAISS, Streamlit, PyPDF
+- **Goal**: Empower users to interact with unstructured documents using conversational AI by combining retrieval and generation techniques, making document exploration faster, smarter, and more intuitive.
 
 ### 🔍 [NLP Sentiment Analysis](https://github.com/davutbayik/metacritic-games-sentiment-analysis)
 - **Description**: A sentiment analysis model that classifies metacritic reviews text data into positive, neutral, or negative sentiments using a fine-tuned BERT model.
