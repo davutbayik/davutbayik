@@ -23,7 +23,6 @@ I’m currently working on data science projects related to building AI agents, 
 ### 🔧 Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=py,ai,js,php,mysql,html,css,ai,selenium,tensorflow,pytorch,sklearn,flask,fastapi,git,)](https://skillicons.dev)
-
 - **Programming Languages**: Python, SQL, Javascript, Php, HTML/CSS
 - **Frameworks & Libraries**: CrewAI, Langchain, Langgraph, PyTorch, Tensorflow, Scikit-learn, Pandas, Numpy, Streamlit, Flask, FastAPI, FPDF, Xlswriter, PyQt6, Tkinter, PyGame, Tailwindcss, React
 - **Tools & Platforms**: GitHub, Jupyter, VS Code, Docker, AWS, Google Cloud
