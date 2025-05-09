@@ -54,6 +54,11 @@ Here are some of my favorite projects:
 - **Technologies**: Python, Requests, Pandas
 - **Goal**: To efficiently extract structured, high-quality metadata and reviews for games, movies, and TV shows from Metacritic’s backend API—enabling deep analysis, sentiment mining, and recommendation system research without the overhead of frontend scraping.
 
+### 📲 [Auto WhatsApp Messaging](https://github.com/davutbayik/whatsapp-auto)
+- **Description**: A Python-based automation tool that uses Selenium to send personalized WhatsApp messages through WhatsApp Web by simulating user interactions in a browser.
+- **Technologies**: Built using Python and Selenium WebDriver for web automation with support for cross-platform execution.
+- **Goal**: To streamline and automate the process of sending WhatsApp messages to individual or multiple contacts without manual intervention.
+
 ### 🧠 [Social Network Ads Prediction](https://github.com/davutbayik/socialmedia-ads-purchase-prediction)
 - **Description**: A Streamlit dashboard and FastAPI endpoint that predicts whether a user will purchase a product based on their gender, age, and estimated salary.
 - **Technologies**: Python, Streamlit, FastAPI, Scikit-learn
