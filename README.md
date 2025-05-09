@@ -46,7 +46,7 @@ Here are some of my favorite projects:
 
 ### 📲 [Auto WhatsApp Messaging](https://github.com/davutbayik/auto-whatsapp)
 - **Description**: A Python-based automation tool that uses Selenium to send personalized WhatsApp messages through WhatsApp Web by simulating user interactions in a browser.
-- **Technologies**: Built using Python and Selenium WebDriver for web automation with support for cross-platform execution.
+- **Technologies**: Python, Selenium WebDriver, Chromedriver.
 - **Goal**: To streamline and automate the process of sending WhatsApp messages to individual or multiple contacts without manual intervention.
 
 ### 🔍 [NLP Sentiment Analysis](https://github.com/davutbayik/metacritic-games-sentiment-analysis)
