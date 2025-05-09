@@ -44,6 +44,11 @@ Here are some of my favorite projects:
 - **Technologies**: LangChain, OpenAI API, Google Gemini API, FAISS, Streamlit, PyPDF
 - **Goal**: Empower users to interact with unstructured documents using conversational AI by combining retrieval and generation techniques, making document exploration faster, smarter, and more intuitive.
 
+### 📲 [Auto WhatsApp Messaging](https://github.com/davutbayik/auto-whatsapp)
+- **Description**: A Python-based automation tool that uses Selenium to send personalized WhatsApp messages through WhatsApp Web by simulating user interactions in a browser.
+- **Technologies**: Built using Python and Selenium WebDriver for web automation with support for cross-platform execution.
+- **Goal**: To streamline and automate the process of sending WhatsApp messages to individual or multiple contacts without manual intervention.
+
 ### 🔍 [NLP Sentiment Analysis](https://github.com/davutbayik/metacritic-games-sentiment-analysis)
 - **Description**: A sentiment analysis model that classifies metacritic reviews text data into positive, neutral, or negative sentiments using a fine-tuned BERT model.
 - **Technologies**: Python, BERT, Hugging Face, NLTK
@@ -53,11 +58,6 @@ Here are some of my favorite projects:
 - **Description**: A custom OOP class for scraping metacritic games, movies and tv shows metadata and reviews from metacritic's backend API using requests.
 - **Technologies**: Python, Requests, Pandas
 - **Goal**: To efficiently extract structured, high-quality metadata and reviews for games, movies, and TV shows from Metacritic’s backend API—enabling deep analysis, sentiment mining, and recommendation system research without the overhead of frontend scraping.
-
-### 📲 [Auto WhatsApp Messaging](https://github.com/davutbayik/whatsapp-auto)
-- **Description**: A Python-based automation tool that uses Selenium to send personalized WhatsApp messages through WhatsApp Web by simulating user interactions in a browser.
-- **Technologies**: Built using Python and Selenium WebDriver for web automation with support for cross-platform execution.
-- **Goal**: To streamline and automate the process of sending WhatsApp messages to individual or multiple contacts without manual intervention.
 
 ### 🧠 [Social Network Ads Prediction](https://github.com/davutbayik/socialmedia-ads-purchase-prediction)
 - **Description**: A Streamlit dashboard and FastAPI endpoint that predicts whether a user will purchase a product based on their gender, age, and estimated salary.
