@@ -4,8 +4,6 @@ Welcome to my GitHub! I'm Davut Bayık, a passionate data scientist, machine lea
 
 ---
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-
 ## 🚀 About Me
 
 I am a Data Scientist, and I specialize in:
@@ -86,6 +84,8 @@ Feel free to check out my repositories and let me know if you want to collaborat
 ---
 
 ## 🌟 GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=davutbayik&color=brightgreen)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=davutbayik&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula" />
