@@ -87,7 +87,7 @@ Feel free to check out my repositories and let me know if you want to collaborat
 
 ![Davut Bayik's GitHub profie views](https://komarev.com/ghpvc/?username=davutbayik&color=brightgreen)
 
-![Davut Bayik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Davut Bayik's GitHub stats](https://github-readme-stats.vercel.app/api?username=davutbayik&show_icons=true&theme=dracula)]
 
 ---
 
