@@ -4,6 +4,8 @@ Welcome to my GitHub! I'm Davut Bayık, a passionate data scientist, machine lea
 
 ---
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+
 ## 🚀 About Me
 
 I am a Data Scientist, and I specialize in:
