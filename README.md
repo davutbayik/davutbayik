@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
+![Davut Bayik's GitHub profie views](https://komarev.com/ghpvc/?username=davutbayik&color=brightgreen)
+
 Welcome to my GitHub! I'm Davut Bayık, a passionate data scientist, machine learning enthusiast, and aspiring AI expert. Here's where I showcase my projects, research, and contributions. Feel free to explore and collaborate!
 
 ---
