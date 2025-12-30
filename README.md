@@ -83,14 +83,8 @@ Feel free to check out my repositories and let me know if you want to collaborat
 
 ---
 
-## 🌟 GitHub Stats
-
-![Davut Bayik's GitHub profie views](https://komarev.com/ghpvc/?username=davutbayik&color=brightgreen)
-
-![Davut Bayik's GitHub stats](https://github-readme-stats.vercel.app/api?username=davutbayik&show_icons=true&theme=dracula)]
-
----
-
 ## 🚀 Let's Collaborate!
 
 If you're interested in working together or discussing projects, don't hesitate to reach out. I'm always open to learning and collaborating on exciting projects!
+
+![Davut Bayik's GitHub profie views](https://komarev.com/ghpvc/?username=davutbayik&color=brightgreen)
